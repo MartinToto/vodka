@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/vodka.iml" filepath="$PROJECT_DIR$/vodka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vodka_api/vodka-api.iml" filepath="$PROJECT_DIR$/vodka_api/vodka-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vodka_bean/vodka_bean.iml" filepath="$PROJECT_DIR$/vodka_bean/vodka_bean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vodka_service/vodka_service.iml" filepath="$PROJECT_DIR$/vodka_service/vodka_service.iml" />
+    </modules>
+  </component>
+</project>
