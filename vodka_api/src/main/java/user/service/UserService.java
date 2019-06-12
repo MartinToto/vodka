@@ -1,6 +1,8 @@
 package user.service;
 
 
+import user.domain.User;
+
 import java.util.List;
 
 /**
